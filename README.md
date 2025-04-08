@@ -1,5 +1,5 @@
 ## Polymorphism
-**Overview**: Enables objects to take different forms while sharing a common interface.
+**Overview**: Enables objects to take different forms while sharing a common interface
 
 **Key Aspects**:
 - Runtime polymorphism (method overriding in inheritance)
